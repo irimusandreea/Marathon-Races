@@ -1,0 +1,11 @@
+11
+0;Morar Mihai;0765456555;Manastur;68;Race 1
+1;Pop Ana;0723456777;Floresti;13;Race 2
+3;Dragan Andrada;0755123321;Aiud;70;Race 1
+4;Rusu Ion2;0766435124;Apahida;5;Race 4
+5;Pop Ana;0723456777;Gheorgheni;70;Race 5
+6;Muresan Ioana;0767899423;Manastur;9;Race 2
+7;Ionel;0755662738;Calea Floresti;10;Race 3
+8;Ilinca;076655526;Mihai Viteazu;11;Race 1
+9;Ilinca;0755662738;Calea Floresti;11;Race 2
+10;Ana;072266283;Floresti;12;Race 42
